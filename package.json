@@ -1,0 +1,27 @@
+{
+  "name": "summernote-mathlive-plugin",
+  "version": "1.0.0",
+  "description": "A plugin for the Summernote WYSIWYG editor.",
+  "main": "summernote-mathlive-plugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stenli79/summernote-mathlive-plugin.git"
+  },
+  "keywords": [
+    "summernote",
+    "mathlive"
+  ],
+  "author": "Stenli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Stenli79/summernote-mathlive-plugin/issues"
+  },
+  "homepage": "https://github.com/Stenli79/summernote-mathlive-plugin#readme",
+  "dependencies": {
+    "summernote": "^0.8.2",
+    "mathlive": "^0.69.7"
+  }
+}
